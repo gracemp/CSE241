@@ -1,0 +1,4 @@
+For this class project I created the ClosestPairDC and ClosestPairNaive files, implementing two closest pair algorithms. 
+The other supporting classes and Main method were provided for me, giving me a input data set and printing out the closest pair, as well as providing helpful methods.
+
+I did not use the c++ code provided in any way. For more information on the specifics of my implementation view the Lab 1 ReadMe file.
